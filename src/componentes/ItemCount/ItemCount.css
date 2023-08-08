@@ -1,0 +1,32 @@
+.Counter {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .Controls {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 10px;
+  }
+  .Button {
+    background-color: rgb(245, 200, 223);
+    padding: 10px;
+    border-radius: 15px;
+    border: 4px solid #f119c3;
+  }
+  .Number {
+    font-size: 1.2rem;
+    font-weight: bold;
+  }
+  .AddButton {
+    color: rgb(247, 156, 198);
+    padding: 10px 20px;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+  }
+  .AddButton:disabled {
+    background-color: rgb(12, 11, 11);
+    cursor: not-allowed;
+  }

@@ -1,0 +1,27 @@
+*{
+    font-size:35px;
+}
+
+.app{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+
+
+.app > div{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.app > div > div{
+    margin-top:25px;
+}
+
+.divi{
+    height: 400px;
+    border-left: 1px solid rgb(73, 10, 247);
+}
