@@ -23,4 +23,4 @@ Para usar este codigo debe tener instalados los siguientes modulos:
     Firebase: npm install firebase
     
     
-Proyecto realizado con la finalidad de optar a la certificacion de React JS en Coderhouse
+Proyecto realizado para de optar a la certificacion de React JS en Coderhouse
