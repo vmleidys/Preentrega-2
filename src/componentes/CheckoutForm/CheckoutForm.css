@@ -1,0 +1,15 @@
+
+.form{
+    display: block;
+    
+    
+    background-color: none;
+    border: solid black 1px;
+   
+    
+    padding: 10px;
+    .Label{
+        padding: 10px;
+        font-weight: bold;
+    }
+}
